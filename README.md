@@ -1,5 +1,9 @@
 # minishell
 
+<p>
+  <img width="500" src="https://user-images.githubusercontent.com/67721631/177960844-888d4980-d16c-45e6-bc8c-8e02bdec3af8.gif">
+</p>
+
 ## Overview
 
 **-Basic Command:** cd, pwd, env, exit, unset, export, echo (all other bash commands are implemented with execv)  
